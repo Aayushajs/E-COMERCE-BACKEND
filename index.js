@@ -11,7 +11,7 @@ const app = express();
 
 // Enable CORS (Cross-Origin Resource Sharing) to allow the frontend at http://localhost:3000 to make requests to this server
 app.use(cors(
-    { origin:  origin: [process.env.FRONTEND_URL_ONE, process.env.FRONTEND_URL_TWO] } // This allows requests only from this URL
+    { origin: [process.env.FRONTEND_URL_ONE, process.env.FRONTEND_URL_TWO] } // This allows requests only from this URL
 ));
 
 // Middleware to parse incoming JSON data in request body
