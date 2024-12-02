@@ -76,9 +76,6 @@ Include relevant screenshots demonstrating the application functionality:
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-2) User Login Request:
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Technologies Used
 
